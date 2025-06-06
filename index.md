@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Jay VijayBhai Lakhani 4404953
 
 [Link to another page](./another-page.html).
 
